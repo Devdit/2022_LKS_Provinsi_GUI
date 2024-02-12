@@ -1,0 +1,76 @@
+NIK,Nama,TTL,Status Hubungan,Status Perkawinan,Gaji,Jenis Pekerjaan,Agama,Jenis Makanan,Kode Rumah,Luas Rumah,age
+3359990000000000.0,Pak Sutajo,"jember, 28 07 1933",Kepala Keluarga,kawin,3000000,Pensiunan,Islam,rawon,A1,280,90
+3357030000000000.0,Bu Sutajo,"jember, 12 07 1940",Istri,kawin,0,Tidak Bekerja,Islam,rawon,A1,280,83
+3356440000000000.0,Pak Jais,"jember, 01 07 1963",Kepala Keluarga,kawin,3000000,Pensiunan,Islam,bakso,B1,240,60
+3355550000000000.0,Bu Jais,"jember, 15 03 1966",Istri,kawin,0,Tidak Bekerja,Islam,bakso,B1,240,57
+3354210000000000.0,Pak Pardi,"jember, 14 12 1965",Kepala Keluarga,kawin,3000000,Pensiunan,Islam,rawon,B2,240,58
+3354390000000000.0,Bu Pardi,"Pemalang, 07 08 1966",Istri,kawin,0,Tidak Bekerja,Islam,rawon,B2,240,57
+3352830000000000.0,Pak Udin,"jember, 11 09 1968",Kepala Keluarga,kawin,3000000,Pensiunan,Islam,ayam bakar,B3,260,55
+3359840000000000.0,Bu Udin,"jember, 09 09 1968",Istri,kawin,3000000,Pensiunan,Islam,ayam bakar,B3,260,55
+3356070000000000.0,Pak Suprapto,"jember, 21 02 1975",Kepala Keluarga,kawin,2789583,PNS,Islam,bakso,C1,200,48
+3352750000000000.0,Bu Suprapto,"jember, 22 04 1977",Istri,kawin,6430981,Swasta,Islam,bakso,C1,200,46
+3356810000000000.0,Pak Fahmi,"jember, 14 08 1978",Kepala Keluarga,kawin,2727962,Swasta,Islam,opor,C2,240,45
+3356720000000000.0,Bu Fahmi,"semarang, 28 06 1978",Istri,kawin,12574754,BUMN,Islam,opor,C2,240,45
+3356560000000000.0,Pak Karno,"jember, 10 04 1979",Kepala Keluarga,kawin,687021,Swasta,Islam,opor,C3,120,44
+3352870000000000.0,Bu Karno,"jember, 06 03 1980",Istri,kawin,0,Tidak Bekerja,Islam,opor,C3,120,43
+3354250000000000.0,Pak Qodri,"jember, 11 09 1980",Kepala Keluarga,kawin,6166126,BUMN,Islam,bakso,C4,200,43
+3358110000000000.0,Bu Qodri,"Jakarta, 11 04 1986",Istri,kawin,9489851,Swasta,Islam,bakso,C4,200,37
+3356700000000000.0,Pak Joko,"Malang, 07 06 1980",Kepala Keluarga,kawin,6548181,BUMN,Islam,rawon,C5,240,43
+3356000000000000.0,Bu Joko,"jember, 06 08 1983",Istri,kawin,3766594,PNS,Islam,rawon,C5,240,40
+3354390000000000.0,Pak Parjo,"Jember, 12 07 1979",Kepala Keluarga,kawin,2833458,PNS,Islam,ayam bakar,C6,180,44
+3353890000000000.0,Bu Parjo,"jember, 06 08 1983",Istri,kawin,0,Tidak Bekerja,Islam,ayam bakar,C6,180,40
+3359850000000000.0,Pak Hari,"Jember, 08 09 1984",Kepala Keluarga,kawin,624887,PNS,Islam,opor,C7,200,39
+3356390000000000.0,Bu Hari,"Malang, 09 10 1986",Istri,kawin,6320220,PNS,Islam,opor,C7,200,37
+3356150000000000.0,Pak Bakri ,"Jember, 21 11 1985",Kepala Keluarga,kawin,5798308,Swasta,Islam,ayam bakar,C8,230,38
+3352930000000000.0,Bu Bakri,"Situbodo, 19 09 1986",Istri,kawin,3711982,PNS,Islam,ayam bakar,C8,230,37
+3355300000000000.0,Pak Fahri,"Banyuwangi, 07 02 1983",Kepala Keluarga,kawin,7896697,BUMN,Islam,bakso,C9,210,40
+3359650000000000.0,Bu Fahri,"Jember, 20 12 1986",Istri,kawin,2803120,Swasta,Islam,bakso,C9,210,37
+3359920000000000.0,Pak Mariono,"Jember,10 04 1987",Kepala Keluarga,kawin,9207626,PNS,Islam,soto,C10,180,36
+3353660000000000.0,Bu Mariono,"Surabaya, 14 02 1988",Istri,kawin,0,Tidak Bekerja,Islam,soto,C10,180,35
+3356700000000000.0,Pak Mardi,"Madiun, 29 03 1987",Kepala Keluarga,kawin,2865885,PNS,Islam,opor,C11,100,36
+3357690000000000.0,Bu Mardi,"Jember, 02 05 1988",Istri,kawin,0,Tidak Bekerja,Islam,opor,C11,100,35
+3356970000000000.0,Pak Karel,"Jember, 07 08 1989",Kepala Keluarga,kawin,9175753,PNS,Kristen,soto,C12,110,34
+3358230000000000.0,Bu Karel,"Bekasi, 01 10 1990",Istri,kawin,0,TIdak Bekerja,Kristen,soto,C12,110,33
+3354310000000000.0,Pak Tiono,"Jember, 27 05 1991",Kepala Keluarga,kawin,6587272,Swasta,Islam,bakso,C13,230,32
+3357290000000000.0,Bu Tiono,"Malang, 30 06 1992",Istri,kawin,6695085,Swasta,Islam,bakso,C13,230,31
+3359890000000000.0,Pak Baim,"Banyuwangi, 07 02 1991",Kepala Keluarga,kawin,8302140,BUMN,Islam,soto,C14,180,32
+3358350000000000.0,Bu Baim,"Jember, 27 05 1992",Istri,kawin,5322783,Swasta,Islam,soto,C14,180,31
+3357260000000000.0,Indra,"Jember, 21 08 1998",anak,belum kawin,5102050,Swasta,Islam,bakso,C1,200,25
+3355370000000000.0,Rani,"Jember, 18 04 2001",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C1,200,22
+3357930000000000.0,Maria,"Jember, 21 08 1997",anak,belum kawin,6753323,Swasta,Islam,opor,C2,240,26
+3356750000000000.0,Brian,"Jember, 02 09 1999",anak,belum kawin,7724264,Swasta,Islam,opor,C2,240,24
+3357900000000000.0,Bima,"Jember, 17 10 2000",anak,belum kawin,5825696,PNS,Islam,opor,C2,240,23
+3355490000000000.0,Nini,"Jember, 19 08 1997",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C3,120,26
+3353640000000000.0,Gina,"Jember, 21 04 1999",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C3,120,24
+3356060000000000.0,Andra,"Jember, 10 07 2000",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C3,120,23
+3355980000000000.0,Randi,"Jember, 22 01 2002",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C3,120,21
+3354730000000000.0,Rodrigo,"Jember, 19 06 1999",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C4,200,24
+3355510000000000.0,Anisa,"Jember, 10 02 2004",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C4,200,19
+3357190000000000.0,Sutono,"Pasuruan, 01 01 1999",anak,belum kawin,7904942,Swasta,Islam,rawon,C5,240,24
+3353400000000000.0,Tina,"Jember, 21 04 2000",anak,belum kawin,0,TIdak Bekerja,Islam,rawon,C5,240,23
+3353550000000000.0,Dono,"Jember, 12 07 2000",anak,belum kawin,0,TIdak Bekerja,Islam,rawon,C5,240,23
+3358510000000000.0,Nana,"Jember, 06 02 1999",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C6,240,24
+3355060000000000.0,Gani,"Jember, 22 04 2000",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C6,180,23
+3357060000000000.0,Aulia,"Jember, 23 07 2002",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C6,180,21
+3355950000000000.0,Kardi,"Jember, 29 09 2004",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C6,180,19
+3359210000000000.0,Ari,"Jember, 21 Juni 2000",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C7,200,23
+3358540000000000.0,Ita,"Jember, 17 Juni 2004",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C7,200,19
+3354420000000000.0,Barni,"Jember, 08 Agustus 2009",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C7,200,14
+3356230000000000.0,Ardi,"Jember, 11 Mei 2000",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C8,230,23
+3352990000000000.0,Arda,"Jember, 04 Januari 2003",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C8,230,20
+3354690000000000.0,Indri,"Jember, 19 November 2006",anak,belum kawin,0,TIdak Bekerja,Islam,ayam bakar,C8,230,17
+3356380000000000.0,Farhan,"Jember, 14 Maret 2008",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C9,210,15
+3354070000000000.0,Fikri,"Jember, 01 September 2012",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C9,210,11
+3358860000000000.0,Akbar,"Jember, 09 Agustus 1999",anak,belum kawin,1077428,Swasta,Islam,soto,C10,180,24
+3358440000000000.0,Almas,"Jember, 17 Juni 2004",anak,belum kawin,0,TIdak Bekerja,Islam,soto,C10,180,19
+3357950000000000.0,Roni,"Jember, 11 Agustus 2008",anak,belum kawin,0,TIdak Bekerja,Islam,soto,C10,180,15
+3356060000000000.0,Robi,"Jember, 08 Desember 2000",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C11,100,23
+3355090000000000.0,Hanifa,"Jember, 02 Februari 2001",anak,belum kawin,0,TIdak Bekerja,Islam,opor,C11,100,22
+3353150000000000.0,Razzaqi,"Jember, 27 Maret 2001",anak,belum kawin,0,TIdak Bekerja,Kristen,soto,C12,110,22
+3357640000000000.0,Nesia,"Jember, 23 Februari 2003",anak,belum kawin,0,TIdak Bekerja,Kristen,soto,C12,110,20
+3355460000000000.0,Septian,"Jember, 08 Desember 2000",anak,belum kawin,0,TIdak Bekerja,Kristen,soto,C12,110,23
+3354080000000000.0,Chintya,"Jember, 07 September 2008",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C13,230,15
+3359270000000000.0,Fania,"Jember, 11 Agustus 2010",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C13,230,13
+3354370000000000.0,Aji,"Jember, 19 November 2016",anak,belum kawin,0,TIdak Bekerja,Islam,bakso,C13,230,7
+3358450000000000.0,Mail,"Jember, 17 Februari 2000",anak,belum kawin,0,TIdak Bekerja,Islam,soto,C14,180,23
+3356020000000000.0,Susanti,"Jember, 27 Februari 2007",anak,belum kawin,0,TIdak Bekerja,Islam,soto,C14,180,16

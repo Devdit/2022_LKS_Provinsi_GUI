@@ -1,0 +1,76 @@
+NIK,Nama,TTL,Status Hubungan,Status Perkawinan,Gaji,Jenis Pekerjaan,Agama,Jenis Makanan,Kode Rumah,Luas Rumah
+3.35999E+15,Pak Sutajo,"jember, 28-07-1933",Kepala Keluarga,kawin,"Rp3.000.000,00",Pensiunan,Islam,rawon,A1,280
+3.35703E+15,Bu Sutajo,"jember, 12-07-1940",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,rawon,A1,280
+3.35644E+15,Pak Jais,"jember, 01-07-1963",Kepala Keluarga,kawin,"Rp3.000.000,00",Pensiunan,Islam,bakso,B1,240
+3.35555E+15,Bu Jais,"jember, 15-03-1966",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,bakso,B1,240
+3.35421E+15,Pak Pardi,"jember, 14-12-1965",Kepala Keluarga,kawin,"Rp3.000.000,00",Pensiunan,Islam,rawon,B2,240
+3.35439E+15,Bu Pardi,"Pemalang, 07-08-1966",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,rawon,B2,240
+3.35283E+15,Pak Udin,"jember, 11-09-1968",Kepala Keluarga,kawin,"Rp3.000.000,00",Pensiunan,Islam,ayam bakar,B3,260
+3.35984E+15,Bu Udin,"jember, 09-09-1968",Istri,kawin,"Rp3.000.000,00",Pensiunan,Islam,ayam bakar,B3,260
+3.35607E+15,Pak Suprapto,"jember, 21-02-1975",Kepala Keluarga,kawin,"Rp2.789.583,37",PNS,Islam,bakso,C1,200
+3.35275E+15,Bu Suprapto,"jember, 22-04-1977",Istri,kawin,"Rp6.430.981,43",Swasta,Islam,bakso,C1,200
+3.35681E+15,Pak Fahmi,"jember, 14-08-1978",Kepala Keluarga,kawin,"Rp2.727.962,40",Swasta,Islam,opor,C2,240
+3.35672E+15,Bu Fahmi,"semarang, 28-06-1978",Istri,kawin,"Rp12.574.754,56",BUMN,Islam,opor,C2,240
+3.35656E+15,Pak Karno,"jember, 10-04-1979",Kepala Keluarga,kawin,"Rp687.021,57",Swasta,Islam,opor,C3,120
+3.35287E+15,Bu Karno,"jember, 06-03-1980",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,opor,C3,120
+3.35425E+15,Pak Qodri,"jember, 11-09-1980",Kepala Keluarga,kawin,"Rp6.166.126,13",BUMN,Islam,bakso,C4,200
+3.35811E+15,Bu Qodri,"Jakarta, 11-04-1986",Istri,kawin,"Rp9.489.851,35",Swasta,Islam,bakso,C4,200
+3.3567E+15,Pak Joko,"Malang, 07-06-1980",Kepala Keluarga,kawin,"Rp6.548.181,76",BUMN,Islam,rawon,C5,240
+3.356E+15,Bu Joko,"jember, 06-08-1983",Istri,kawin,"Rp3.766.594,06",PNS,Islam,rawon,C5,240
+3.35439E+15,Pak Parjo,"Jember, 12-07-1979",Kepala Keluarga,kawin,"Rp2.833.458,87",PNS,Islam,ayam bakar,C6,180
+3.35389E+15,Bu Parjo,"jember, 06-08-1983",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,ayam bakar,C6,180
+3.35985E+15,Pak Hari,"Jember, 08-09-1984",Kepala Keluarga,kawin,"Rp624.887,67",PNS,Islam,opor,C7,200
+3.35639E+15,Bu Hari,"Malang, 09-10-1986",Istri,kawin,"Rp6.320.220,80",PNS,Islam,opor,C7,200
+3.35615E+15,Pak Bakri ,"Jember, 21-11-1985",Kepala Keluarga,kawin,"Rp5.798.308,18",Swasta,Islam,ayam bakar,C8,230
+3.35293E+15,Bu Bakri,"Situbodo, 19-09-1986",Istri,kawin,"Rp3.711.982,69",PNS,Islam,ayam bakar,C8,230
+3.3553E+15,Pak Fahri,"Banyuwangi, 07-02-1983",Kepala Keluarga,kawin,"Rp7.896.697,79",BUMN,Islam,bakso,C9,210
+3.35965E+15,Bu Fahri,"Jember, 20-12-1986",Istri,kawin,"Rp2.803.120,67",Swasta,Islam,bakso,C9,210
+3.35992E+15,Pak Mariono,"Jember,10-04-1987",Kepala Keluarga,kawin,"Rp9.207.626,58",PNS,Islam,soto,C10,180
+3.35366E+15,Bu Mariono,"Surabaya, 14-02-1988",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,soto,C10,180
+3.3567E+15,Pak Mardi,"Madiun, 29-03-1987",Kepala Keluarga,kawin,"Rp2.865.885,14",PNS,Islam,opor,C11,100
+3.35769E+15,Bu Mardi,"Jember, 02-05-1988",Istri,kawin,"Rp0,00",Tidak Bekerja,Islam,opor,C11,100
+3.35697E+15,Pak Karel,"Jember, 07-08-1989",Kepala Keluarga,kawin,"Rp9.175.753,85",PNS,Kristen,soto,C12,110
+3.35823E+15,Bu Karel,"Bekasi, 01-10-1990",Istri,kawin,"Rp0,00",TIdak Bekerja,Kristen,soto,C12,110
+3.35431E+15,Pak Tiono,"Jember, 27-05-1991",Kepala Keluarga,kawin,"Rp6.587.272,58",Swasta,Islam,bakso,C13,230
+3.35729E+15,Bu Tiono,"Malang, 30-06-1992",Istri,kawin,"Rp6.695.085,78",Swasta,Islam,bakso,C13,230
+3.35989E+15,Pak Baim,"Banyuwangi, 07-02-1991",Kepala Keluarga,kawin,"Rp8.302.140,05",BUMN,Islam,soto,C14,180
+3.35835E+15,Bu Baim,"Jember, 27-05-1992",Istri,kawin,"Rp5.322.783,11",Swasta,Islam,soto,C14,180
+3.35726E+15,Indra,"Jember, 21-08-1998",anak,belum kawin,"Rp5.102.050,36",Swasta,Islam,bakso,C1,200
+3.35537E+15,Rani,"Jember, 18-04-2001",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C1,200
+3.35793E+15,Maria,"Jember, 21-08-1997",anak,belum kawin,"Rp6.753.323,84",Swasta,Islam,opor,C2,240
+3.35675E+15,Brian,"Jember, 02-09-1999",anak,belum kawin,"Rp7.724.264,74",Swasta,Islam,opor,C2,240
+3.3579E+15,Bima,"Jember, 17-10-2000",anak,belum kawin,"Rp5.825.696,87",PNS,Islam,opor,C2,240
+3.35549E+15,Nini,"Jember, 19-08-1997",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C3,120
+3.35364E+15,Gina,"Jember, 21-04-1999",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C3,120
+3.35606E+15,Andra,"Jember, 10-07-2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C3,120
+3.35598E+15,Randi,"Jember, 22-01-2002",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C3,120
+3.35473E+15,Rodrigo,"Jember, 19-06-1999",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C4,200
+3.35551E+15,Anisa,"Jember, 10-02-2004",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C4,200
+3.35719E+15,Sutono,"Pasuruan, 01-01-1999",anak,belum kawin,"Rp7.904.942,89",Swasta,Islam,rawon,C5,240
+3.3534E+15,Tina,"Jember, 21-04-2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,rawon,C5,240
+3.35355E+15,Dono,"Jember, 12-07-2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,rawon,C5,240
+3.35851E+15,Nana,"Jember, 06-02-1999",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C6,240
+3.35506E+15,Gani,"Jember, 22-04-2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C6,180
+3.35706E+15,Aulia,"Jember, 23-07-2002",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C6,180
+3.35595E+15,Kardi,"Jember, 29-09-2004",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C6,180
+3.35921E+15,Ari,"Jember, 21 Juni 2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C7,200
+3.35854E+15,Ita,"Jember, 17 Juni 2004",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C7,200
+3.35442E+15,Barni,"Jember, 08 Agustus 2009",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C7,200
+3.35623E+15,Ardi,"Jember, 11 Mei 2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C8,230
+3.35299E+15,Arda,"Jember, 04 Januari 2003",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C8,230
+3.35469E+15,Indri,"Jember, 19 November 2006",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,ayam bakar,C8,230
+3.35638E+15,Farhan,"Jember, 14 Maret 2008",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C9,210
+3.35407E+15,Fikri,"Jember, 01 September 2012",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C9,210
+3.35886E+15,Akbar,"Jember, 09 Agustus 1999",anak,belum kawin,"Rp1.077.428,32",Swasta,Islam,soto,C10,180
+3.35844E+15,Almas,"Jember, 17 Juni 2004",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,soto,C10,180
+3.35795E+15,Roni,"Jember, 11 Agustus 2008",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,soto,C10,180
+3.35606E+15,Robi,"Jember, 08 Desember 2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C11,100
+3.35509E+15,Hanifa,"Jember, 02 Februari 2001",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,opor,C11,100
+3.35315E+15,Razzaqi,"Jember, 27 Maret 2001",anak,belum kawin,"Rp0,00",TIdak Bekerja,Kristen,soto,C12,110
+3.35764E+15,Nesia,"Jember, 23 Februari 2003",anak,belum kawin,"Rp0,00",TIdak Bekerja,Kristen,soto,C12,110
+3.35546E+15,Septian,"Jember, 08 Desember 2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Kristen,soto,C12,110
+3.35408E+15,Chintya,"Jember, 07 September 2008",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C13,230
+3.35927E+15,Fania,"Jember, 11 Agustus 2010",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C13,230
+3.35437E+15,Aji,"Jember, 19 November 2016",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,bakso,C13,230
+3.35845E+15,Mail,"Jember, 17 Februari 2000",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,soto,C14,180
+3.35602E+15,Susanti,"Jember, 27 Februari 2007",anak,belum kawin,"Rp0,00",TIdak Bekerja,Islam,soto,C14,180
